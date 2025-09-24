@@ -1,3 +1,4 @@
+
 # Install git
  You need to install Git and make sure it’s available in your terminal's PATH.
 
@@ -29,6 +30,8 @@ installs_dir=$HOME/.elixir-install/installs
 export PATH=$installs_dir/otp/27.3.4/bin:$PATH
 export PATH=$installs_dir/elixir/1.18.4-otp-27/bin:$PATH
 iex
+
+
 If you are using PowerShell (Windows), run:
 
 curl.exe -fsSO https://elixir-lang.org/install.bat
@@ -42,9 +45,8 @@ iex.bat
   Restart PC. 
   Open command-prompt. (type cmd in Run window)
   type below in cmd
-  mix archive.install hex phx_new or mix local.hex
-      Are you sure you want to install "https://builds.hex.pm/installs/1.18.0/hex-2.2.2-otp-27.ez"? [Yn] y
-      * creating .mix/archives/hex-2.2.2-otp-27
+  mix archive.install hex phx_new 
+  
   Mix deps.get
   
 # Battleshipgame
