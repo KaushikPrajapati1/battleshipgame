@@ -35,10 +35,10 @@ iex.bat
   Restart PC. 
   Open command-prompt. (type cmd in Run window)
   type below in cmd
-  Mix local.hex
+  Mix archive.insatll hex phx_new or Mix local.hex
       Are you sure you want to install "https://builds.hex.pm/installs/1.18.0/hex-2.2.2-otp-27.ez"? [Yn] y
       * creating .mix/archives/hex-2.2.2-otp-27
-  
+  Mix deps.get
   
 # Battleshipgame
 
