@@ -1,3 +1,8 @@
+# Install Elixir
+  https://elixir-lang.org/install.html#windows
+  or
+  https://elixir-lang.org/install.html#macos
+  
 # Battleshipgame
 
 To start your Phoenix server:
