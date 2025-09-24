@@ -70,6 +70,12 @@ Now you can visit http://localhost:4000/Battleship from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
+# VS Code
+ (Code editor)
+install -
+https://code.visualstudio.com/
+
+
 ## Learn more
 
 * Official website: https://www.phoenixframework.org/
