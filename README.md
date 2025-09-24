@@ -14,6 +14,13 @@ Install it and make sure the "Git from the command line and also from 3rd-party 
 Restart your terminal or IDE after installing.
 
 # Install Elixir
+
+https://elixir-lang.org/install.html
+
+For Window - https://elixir-lang.org/install.html#windows
+For Mac - https://elixir-lang.org/install.html#macos
+ 
+
 If you are using bash (macOS/Ubuntu/Windows), run:
 
 curl -fsSO https://elixir-lang.org/install.sh
