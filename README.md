@@ -1,3 +1,18 @@
+# Install git
+ You need to install Git and make sure it’s available in your terminal's PATH.
+
+For Linux (Debian/Ubuntu):
+sudo apt update
+sudo apt install git
+
+For macOS (with Homebrew):
+brew install git
+
+For Windows:
+Download Git from https://git-scm.com/
+Install it and make sure the "Git from the command line and also from 3rd-party software" option is selected.
+Restart your terminal or IDE after installing.
+
 # Install Elixir
 If you are using bash (macOS/Ubuntu/Windows), run:
 
@@ -16,6 +31,14 @@ $env:PATH = "$installs_dir\otp\27.3.4\bin;$env:PATH"
 $env:PATH = "$installs_dir\elixir\1.18.4-otp-27\bin;$env:PATH"
 iex.bat
 <img width="1102" height="635" alt="image" src="https://github.com/user-attachments/assets/c30ff55b-9789-444a-89ae-52a4e1f64cd7" />
+
+  Restart PC. 
+  Open command-prompt. (type cmd in Run window)
+  type below in cmd
+  Mix local.hex
+      Are you sure you want to install "https://builds.hex.pm/installs/1.18.0/hex-2.2.2-otp-27.ez"? [Yn] y
+      * creating .mix/archives/hex-2.2.2-otp-27
+  
   
 # Battleshipgame
 
